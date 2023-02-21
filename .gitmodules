@@ -1,0 +1,3 @@
+[submodule "PitchConverter"]
+	path = PitchConverter
+	url = https://github.com/c-m-green/r2r-pitch-converter.git
